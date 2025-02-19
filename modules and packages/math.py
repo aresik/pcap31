@@ -48,3 +48,7 @@ print("factorial of 3.0 is: ", math.factorial(4))
 
 print("sqrt of 3.0 is: ", math.sqrt(3))
 print("sqrt of 3.0 is: ", math.sqrt(4))
+
+
+# hypot()
+print(math.hypot(3, 4))
